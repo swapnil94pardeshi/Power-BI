@@ -15,4 +15,4 @@ This field contains the year in which the incident occurred.
 imonth
 This field contains the number of the month in which the incident occurred.
 iday
-This field contains the numeric day of the month on which the incident occurred.
+This field contains the numeric day of the month on which the incident occurred..
