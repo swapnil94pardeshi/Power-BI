@@ -2,6 +2,11 @@ This dataset provides comprehensive information on global population dynamics. I
 
 ![1 -Picture-for-Article-1](https://github.com/swapnil94pardeshi/Power-BI/assets/126460594/e6d4abd8-92a8-4016-940f-0814bc1474be)
 
+
+![123](https://github.com/swapnil94pardeshi/Power-BI/assets/126460594/bb524d8d-43e7-4242-983b-dabb9fcaf14e)
+
+![1234](https://github.com/swapnil94pardeshi/Power-BI/assets/126460594/848cf835-6bce-4c62-ba02-4f17cbf3b8af)
+
 in this World Population Insights Power BI Dashboard, 
 we have Created Filter with respect to Country as well as COntinent wise. 
 
